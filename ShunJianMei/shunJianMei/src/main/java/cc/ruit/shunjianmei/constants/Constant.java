@@ -1,13 +1,6 @@
 package cc.ruit.shunjianmei.constants;
 
-import java.util.LinkedList;
-import java.util.List;
-
-import org.apache.http.NameValuePair;
-import org.apache.http.message.BasicNameValuePair;
-
 import com.lidroid.xutils.util.LogUtils;
-import com.tencent.mm.sdk.modelpay.PayReq;
 
 /**
  * 接口常量
@@ -19,7 +12,7 @@ public class Constant {
 	/**
 	 * 统一根地址
 	 */
-	public static final String NET = "http://192.168.244:8080/shunjianmeiweb";
+	public static final String NET = "http://192.168.1.244:8080/shunjianmeiweb";
 //	public static final String NET = "http://10.2.11.233:8080/shunjianmeiweb/"; // 测试
 	// public static final String NET = "http://shunjianonline.com";
 
